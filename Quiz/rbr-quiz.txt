@@ -1,0 +1,23 @@
+rbr-Quiz for mIRC
+
+
+
+Hints:
+-occur per answers?
+-perhaps write something like "It has 5 chars including 1 whitespace"?
+
+
+Answers:
+-only write something on correct answer (need proc to convert Ö<->OE, etc.)
+-write nick, correct answer, time needed, lag?
+-points = pointsperanswer / hints * hintsneeded  or  pointsperanswer - hintsneeded
+
+
+Stats:
+-if manual stop is received
+-if manual stats are called
+-before a counter reset
+-TOP10 if >=10 users
+-TOP5 if >=5
+-TOP3 if >=3
+-variable ranking <3 users

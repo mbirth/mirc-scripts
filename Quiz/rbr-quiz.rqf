@@ -1,0 +1,77 @@
+[Main]
+Topic=LMG
+Creator=Richard B. Riddick
+Date=Apr 14, 2002
+HintTime=10
+
+[Q1]
+T=LMG
+Q=Wie lauten BEIDE Vornamen des Schulleiters des LMG?
+A=Heinz Heinrich
+Points=5
+Hint1=Der erste Name ist sein Rufname. Der zweite fängt mit dem gleichen Buchstaben wie der erste an.
+Hint2=Beide Vornamen sind gute alte deutsche Vornamen.
+Hint3=Der zweite Vorname fängt auch mit den ersten 4 Buchstaben des ersten Vornamens an.
+Hint4=Der zweite Vorname hört mit dem deutschen Wort für "Ego" auf.
+Hint5=H.... H.......
+Hint6=He... He..r...
+Hint7=Hei.. Hei.ri..
+Hint8=Hein. Heinric.
+
+[Q2]
+T=LMG
+Q=Wofür steht die Abkürzung "ITG"?
+A=Informationstechnische Grundlagen
+Points=5
+Hint1=Es sind zwei Wörter. Und es ist ein Lehrfach.
+Hint2=Es hat mit Computern zu tun, obwohl das Wort "Computer" nicht darin vorkommt.
+Hint3=Man könnte meinen, es ist eine Ausbildung für Geheimdienstler.
+Hint4=Es ist vom Begriff "Informatik" abgeleitet.
+Hint5=Das Fach lehrt grundlegende Dinge im Umgang mit Computern.
+Hint6=Es ist eine Kombination der Wörter "Information", "Technik" und "Grundlage".
+Hint7=Gesucht werden gewisse Grundlagen.
+Hint8=Grundlagen, die mit Informationstechnik zu tun haben.
+
+[Q3]
+T=Internet
+Q=Wofür steht die Abkürzung "IRC"?
+A=Internet Relay Chat
+Points=5
+Hint1=Gesucht werden 3 Wörter.
+Hint2=Wir befinden uns hier gerade auf einem IRC-Server.
+Hint3=Das erste Wort bezeichnet das Medium, das zweite ist engl. für "Staffel" und das dritte bezeichnet die Tätigkeit.
+Hint4=I....... R.... C...
+Hint5=I...r..t R...y C..t
+Hint6=In..rn.t Re.ay Ch.t
+
+[Q4]
+T=Feiertage/Feste/Parties
+Q=Welches Fest ist jährlich Ende Oktober?
+A=Halloween
+Points=3
+Hint1=Üblicherweise verkleidet man sich an dem Tag.
+Hint2=Der wohl am meisten an diesem Tag gehörte Spruch ist die dt. Übersetzung von: "Trick or treat!"
+Hint3=Der Tag hat viel mit Kürbissen zu tun.
+Hint4=Es gibt auch einen gleichnamigen Horrorfilm.
+
+[Q5]
+T=Feiertage/Feste/Parties
+Q=Woher hat der Weihnachtsmann sein rot/weisses Aussehen?
+A=Coca Cola
+Points=8
+Hint1=Der Weihnachtsmann war vor 1900 noch ohne spezifische Farben.
+Hint2=Das rot/weisse Kostüm wurde durch eine Comic-Serie als Werbung für einen grossen Konzern geprägt.
+Hint3=Der große Konzern stellt auch heute noch Getränke aller Art her.
+Hint4=Zu den Getränken zählen auch "Qoo"-Limonade und "Bonaqa".
+Hint5=Das Hauptprodukt dieser Firma besteht hauptsächlich aus Kolanüssen und Kokablättern.
+
+[Q6]
+T=LMG
+Q=Wofür steht die Abkürzung "Sek."?
+A=Sekundarstufe
+Points=5
+Hint1=Man könnte auch sagen: "Zweite Phase".
+Hint2=Der Anfang des Wortes klingt wie eine Zeiteinheit.
+Hint3=Das Ende des Wortes klingt wie der Teil einer Treppe.
+Hint4=Rückwärts wär das Efutsradnukes.
+
